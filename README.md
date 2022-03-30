@@ -16,10 +16,11 @@
   <img align="center" alt="MarkesZks-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/460955986581127199/958734296254930994/1604090_a14a5.gif">
 </div>
- <div> 
- </div>
+  
+  ##
+  
   <div> 
- 
+
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
   <a href = "mailto:gabrielmarques.messias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
