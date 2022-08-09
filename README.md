@@ -1,4 +1,16 @@
-## Olá!! Eu sou o Gabriel Marques 😉
+## 💻Gabriel Marques💻
+### Bom dia 👋
+ Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistemas na UMC
+ - 📚 Cursando Analise e Desenvolvimento de Sistemas.
+ - 🧐 Atualmente sou Estagiario na TOTVS.
+ - 💻 Entusiasta por tecnolgia, ciência e inovação
+ - 🙋🏼‍♂️ Sobre mim: Gosto de Animes, Filmes, Games, Cirar coisas, Programar e aprender!
+
+
+
+<br>
+
+  ## Tecnologias 🛠
 <div align="center">
   <a href="https://github.com/MarkesZks%22%3E">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkesZks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
