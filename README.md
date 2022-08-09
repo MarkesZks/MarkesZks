@@ -1,5 +1,5 @@
 ## 💻Gabriel Marques💻
-### Bom dia 👋
+### Olá! 👋
  Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistemas na UMC
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
  - 🧐 Atualmente sou Estagiario na TOTVS.
