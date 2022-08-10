@@ -4,7 +4,7 @@
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
  - 🧐 Atualmente sou Estagiario na TOTVS.
  - 💻 Entusiasta por tecnolgia, ciência e inovação
- - 🙋🏼‍♂️ Sobre mim: Gosto de Animes, Filmes, Games, Cirar coisas, Programar e aprender!
+ - 🙋🏼‍♂️ Sobre mim: Gosto de Animes, Filmes, Games, Criar coisas, Programar e aprender!
 
 
 
