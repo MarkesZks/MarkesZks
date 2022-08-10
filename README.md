@@ -11,7 +11,7 @@
 <br>
 
   ## Tecnologias 🛠
-  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src ="https://img.shields.io/badge/-JavaScript%20-orange?style=for-the-badge&logo=javascript&logoColor=white"> <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src ="https://img.shields.io/badge/-JavaScript%20-orange?style=for-the-badge&logo=javascript&logoColor=white"> <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React"> <img src ="https://img.shields.io/badge/-React__Native-blue?style=for-the-badge&logo=Expo">
  
 </div>
   
