@@ -30,6 +30,6 @@
    
   <a href="https://www.linkedin.com/in/gabriel-marques-messias-824761206/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-   <a href="https://contate.me/Gabriel.Marques" target="_blank"><img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
   <img align="right" alt="pikachu-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/460955986581127199/958734296254930994/1604090_a14a5.gif">
 </div>
