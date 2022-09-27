@@ -15,6 +15,8 @@ Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistem
   <img src= "https://img.shields.io/badge/-React%20-black?style=for-the-badge&logo=React&logoColor=blue">
    <img src="https://img.shields.io/badge/-Node.js%20-GREEN?style=for-the-badge&logo=Node.js&logoColor=black">
       <img src="https://img.shields.io/badge/-SQL%20-lightgrey?style=for-the-badge&logo=">
+            <img src="https://img.shields.io/badge/-php%20-blue?style=for-the-badge&logo=PHP&logoColor=white">
+
  
 </div>
   
