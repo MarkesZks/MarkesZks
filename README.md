@@ -3,7 +3,7 @@
 <br>
 Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistemas na UMC
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
- - 🧐 Atualmente sou Estagiario na TOTVS.
+ - 🧐 Atualmente sou Programador Estagiario na TOTVS.
  - 🙋🏼‍♂️ Sobre mim: Gosto de Games, amo programar e resolver problemas!
 
 
@@ -11,8 +11,9 @@ Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistem
 <br>
 
   ## Tecnologias 🛠
-  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src ="https://img.shields.io/badge/-JavaScript%20-orange?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-ADVPL-000?style=for-the-badge&logo=%3Cimg%20src=%22https://media.discordapp.net/attachments/1009147221922553857/1009806942522322964/unknown.png?width=408&height=416%22%3E">
+  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src ="https://img.shields.io/badge/-JavaScript%20-orange?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-ADVPL-FFF?style=for-the-badge&logo">
+  <img src= "https://img.shields.io/badge/-React%20-black?style=for-the-badge&logo=React&logoColor=blue">
+   <img src="https://img.shields.io/badge/-Node.js%20-GREEN?style=for-the-badge&logo=Node.js&logoColor=black">
  
 </div>
   
