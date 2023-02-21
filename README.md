@@ -3,7 +3,7 @@
 <br>
 Meu nome é Gabriel Marques, estou estudando Analise e Desenvolvimento de Sistemas na UMC
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
- - 🧐 Atualmente sou Programador Estagiario na TOTVS.
+ - 🧐 Atualmente sou Estagiario em Gestão de Mudanças de Projetos na TOTVS.
  - 🙋🏼‍♂️ Sobre mim: Gosto de Games, amo programar e resolver problemas!
 
 
