@@ -1,7 +1,7 @@
 ## 💻Gabriel Marques💻
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E400&width=435&lines=%F0%9F%91%8BOl%C3%A1!+meu+nome+%C3%A9+Gabriel+Marques!%F0%9F%98%8A)](https://git.io/typing-svg)
 <br>
-Meu nome é Gabriel Marques 
+Sou um estudante autodidata, sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
  - 🧐 Atualmente sou Estagiario em Gestão de Mudanças de Projetos na TOTVS.
  - 🙋🏼‍♂️ Sobre mim: Sempre em busca da solução!
