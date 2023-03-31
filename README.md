@@ -3,7 +3,7 @@
 <br>
 Sou um estudante autodidata, sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
- - 🧐 Atualmente sou Estagiario em Gestão de Mudanças de Projetos na TOTVS.
+ - 🧐 Atualmente sou Analista de gestão de mudanças na TOTVS.
  - 🙋🏼‍♂️ Sobre mim: Sempre em busca da solução!
 
 
