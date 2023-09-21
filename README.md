@@ -23,7 +23,7 @@ Sou um estudante autodidata, sempre buscando desenvolver os meus conhecimentos m
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkesZks&show_icons=true&theme=dracula&line_height=27" alt="**MarkesZks** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkesZks&show_icons=true&theme=dracula&line_height=20" alt="**MarkesZks** github stats"/>
 </a>
 
   
