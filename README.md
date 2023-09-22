@@ -1,5 +1,5 @@
 ## 💻Gabriel Marques💻
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E400&width=435&lines=%F0%9F%91%8BOl%C3%A1!+meu+nome+%C3%A9+Gabriel+Marques!%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7E400&repeat=false&width=435&lines=%F0%9F%91%8BSeja+Bem+vindo+ao+meu+portfolio!)](https://git.io/typing-svg)
 <br>
 Sou um estudante autodidata, sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
  - 📚 Cursando Analise e Desenvolvimento de Sistemas.
