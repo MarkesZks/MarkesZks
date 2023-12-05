@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7E400&repeat=false&width=435&lines=%F0%9F%91%8BSeja+Bem+vindo+ao+meu+portfolio!)](https://git.io/typing-svg)
 <br>
 Sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
- - 📚 Cursando Analise e Desenvolvimento de Sistemas.
+ - 📚 Formado em Analise e Desenvolvimento de Sistemas.
  - 🧐 Atualmente sou Analista de gestão de mudanças na TOTVS.
  - 🙋🏼‍♂️ Sobre mim: Sempre em busca da solução!
 
