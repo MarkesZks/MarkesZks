@@ -16,13 +16,9 @@ Sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
  
 </div>
   
-## Status
+<br>
+<br>
 
-  <img height="180em"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkesZks&layout=compact&langs_count=7&theme=dracula"/>
-
-  
-##
- 
 <div> 
   <a href = "mailto:gabrielmarques.messias1@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
