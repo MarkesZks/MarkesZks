@@ -4,7 +4,7 @@
 Sempre buscando desenvolver os meus conhecimentos me colocando em desafios.
  - 📚 Formado em Analise e Desenvolvimento de Sistemas.
  - 🧐 Atualmente sou Analista de gestão de mudanças na TOTVS.
- - 🙋🏼‍♂️ Sobre mim: Sempre em busca da solução!
+ - 🙋🏼‍♂️ Sobre mim: Sempre em busca de evolução!
 
 
 
