@@ -8,8 +8,7 @@ Full Stack Developer building practical, scalable solutions.
 
 ### 🧠 About
 - 🎓 Systems Analysis and Development graduate  
-- 💼 Full Stack Developer [@DWC Consult](https://www.linkedin.com/company/dwcconsult) — [TOTVS homologated partner](https://www.linkedin.com/company/totvs)  
-- 🧾 Building internal systems with Angular + Node JS + Java
+- 💼 Full Stack Developer
 - 💡 Main languages are [**TypeScript**](https://www.typescriptlang.org), [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [**Java**](https://www.java.com)
 
 ---
